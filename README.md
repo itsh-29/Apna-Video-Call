@@ -6,7 +6,7 @@
 
 Orbit is a full-stack real-time video collaboration platform that enables users to create and join secure video meetings, communicate instantly through chat, and manage meeting history. Built using WebRTC, Socket.IO, React, and Node.js, Orbit delivers low-latency peer-to-peer communication with a modern, responsive user experience.
 
-**🌐 Live Demo:** https://your-live-demo-link.vercel.app/
+**🌐 Live Demo:** https://orbit-gray-chi.vercel.app/
 
 > Experience seamless video conferencing with real-time communication powered by WebRTC and Socket.IO.
 
